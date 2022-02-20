@@ -1,2 +1,2 @@
 # tevz.github.io
-website
+Website
